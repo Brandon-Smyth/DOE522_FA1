@@ -11,7 +11,7 @@ namespace TestConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Hello World! But with fixed syntax and indenation");
+           console.WriteLine("Hello World! But with bad syntax and indenation to send email")
         }
     }
 }
