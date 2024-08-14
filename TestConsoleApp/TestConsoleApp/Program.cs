@@ -12,6 +12,6 @@ namespace TestConsoleApp
         {
             Console.WriteLine("Hello World!");
            console.WriteLine("Hello World! But with bad syntax and indenation to send email")
-        }
+        
     }
 }
